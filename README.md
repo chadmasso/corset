@@ -1,4 +1,4 @@
-# pencilthin #
+# corset #
 ## Prerequisites ##
 Must have PROJECT_ROOT set in django settings file
 
