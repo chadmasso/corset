@@ -1,7 +1,6 @@
 from django.core.management.base import BaseCommand, CommandError
 from django.template import Context, Template
 from django.conf import settings
-from corset import JS_DIRS
 import requests, os, glob
 
 CLOSURE_URL = 'http://closure-compiler.appspot.com/compile'
