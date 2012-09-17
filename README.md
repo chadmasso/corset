@@ -1,10 +1,10 @@
 # corset #
 ## Prerequisites ##
-Must have PROJECT_ROOT set in django settings file
+Must have CORSET_JS_DIRS set to point to which js dirs you want to be compiled. (I know this is horrible, will implement aoutcrawling of apps when I have time)
+JS directory needs to be setup with a src/ and build/ folder.
 
 ## Installation ##
-### Install the package ###
-pip coming soon...
+pip install corset
 
 #### Configure your settings ####
 coming soon...
